@@ -1,2 +1,3 @@
 # GENDER-AND-AGE-DETECTION-SYSTEM
 A Deep Learning-based Gender and Age Detection System using Python and OpenCV. Detects faces and predicts gender and age groups from images, videos, and live webcam feeds using pre-trained DNN models, enabling fast and accurate real-time demographic analysis.
+This project implements a Gender and Age Detection System using Python, OpenCV, and Deep Neural Networks (DNN). It detects faces from images, videos, or webcam input and estimates the gender (Male/Female) and age group of each detected person using pre-trained Caffe models. The system performs real-time inference with high accuracy and demonstrates practical applications of computer vision and deep learning.
